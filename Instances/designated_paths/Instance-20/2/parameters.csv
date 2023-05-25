@@ -1,0 +1,15 @@
+parameter_name,value
+REGIONAL,False
+DP,True
+GROUP_TIMES,False
+n,20
+m,300
+k,150
+h,0
+cost,V
+capacity,T
+e_sigma_factor,0.3333333333333333
+f_mean_factor,0.25
+f_sigma_factor,0.16666666666666666
+Delta,1
+num_fixed_times,0
