@@ -1,4 +1,4 @@
-# SND_RR
+# SND-RR
 An implementation of two dynamic discretization discovery (DDD) algorithms for solving the service network design problem with restricted routes. The two algorithms implemented are the arc-based and node-based DDD algorithms as described in the corresponding paper 
 'Sparse dynamic discretization discovery via arc-dependent time discretizations'. The Arxiv version of this paper can be found 
 [here](https://www.example.com/paper). This code was used for the comparison of runtime for two algorithms and the results
